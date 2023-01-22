@@ -6,7 +6,7 @@
  arrays
  trees
  queues
- stacks
+ stacks xx
  graphs
  heaps
  hash tables
