@@ -1,11 +1,11 @@
 # pythong_d-a_reference
 
  data structures such as 
- strings
+ strings xx 
  lists xx
- arrays
- trees
- queues
+ arrays xx
+ trees 
+ queues xx
  stacks xx
  graphs
  heaps
